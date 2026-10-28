@@ -1,5 +1,0 @@
-// Title: Bitwise ORs of Subarrays
-            // Difficulty: Unknown
-            // Language: undefined
-            // Link: https://leetcode.com/problems/bitwise-ors-of-subarrays/
-
