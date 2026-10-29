@@ -45,8 +45,6 @@ HEAT MAP
 
 
 
-
-
 <!--Used Generative AI on my OG code to look better and safe time-->
 # 💻 LeetCode Journey
 
@@ -63,8 +61,6 @@ Tracking my coding progress, SQL practice, and daily problem-solving journey on 
 | 🗄️ MySQL | **101** |
 | **Total across languages** | **796** |
 <img width="406" height="175" alt="Screenshot 2026-10-28 at 12 53 00" src="https://github.com/user-attachments/assets/4bab807c-79a5-46c7-96c0-f1d46ea90449" />
-
-*Updated October 28, 2026.*
 
 ## 🛠️ Skills & Technologies
 
